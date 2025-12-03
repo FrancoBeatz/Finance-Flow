@@ -1,0 +1,5 @@
+{
+  "name": "FinanceFlow",
+  "description": "A smart personal finance manager that uses AI to categorize transactions, track budgets, and provide financial insights.",
+  "requestFramePermissions": []
+}
